@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set variables
-AppName="AppName" # this will be the name of you app/game
+AppName="GameName" # this will be the name of you app/game
 KeychainProfile="KeychainProfileName" # Replace with the name of your keychain profile see reedme to see how to create this.
 ApplicationCertificateName="DeveloperName (xxxxxxxxxx)" # replce xxxxxxxxxx with you team id. replace DeveloperName with you develoepr name
 identifier="com.company.appname" # this will be you bundle identifier for this app/game
